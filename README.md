@@ -8,10 +8,10 @@ I help businesses through process optimization, workflow automation and master d
 
 ## Current Focus
 
-🚀 SAP S/4 HANA
-⚙️ Project Management
-📊 Data Analytics
-⚡ Continuous learning
+- 🚀 SAP S/4 HANA
+- ⚙️ Project Management
+- 📊 Data Analytics
+- ⚡ Continuous learning
 
 
 ## Languages

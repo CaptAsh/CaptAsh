@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/CaptAsh/CaptAsh/main/asset_dino.gif
+<img src="https://raw.githubusercontent.com/CaptAsh/CaptAsh/main/asset_dino.gif" width="100%"/>
 
 # Hi there 👋 I'm Ash
 

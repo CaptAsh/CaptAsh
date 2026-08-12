@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/CaptAsh/CaptAsh/main/asset_dino.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/CaptAsh/CaptAsh/main/asset_dino.gif" width="50%"/>
 
-# Hi there 👋 I'm Ash
 
-### Finance Master Data | SAP S/4 HANA | Informatica MDM
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A191A&width=435&lines=Hi%2C+I'm+Ash+%F0%9F%91%8B;Finance+Master+Data+Management;SAP+Professional;Based+in+Berlin+" alt="Typing SVG" /></a>
 
 I help businesses through process optimization, workflow automation and master data management.
 
@@ -18,7 +17,7 @@ I help businesses through process optimization, workflow automation and master d
 
 ## Languages
 
-Malay(Native) German(C1)
+Malay (Native) German(C1)
 
 ## Connect with me
 

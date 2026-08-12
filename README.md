@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/CaptAsh/CaptAsh/main/asset_dino.gif
+
 # Hi there 👋 I'm Ash
 
 ### Finance Master Data | SAP S/4 HANA | Informatica MDM

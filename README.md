@@ -16,7 +16,7 @@ I help businesses through process optimization, workflow automation and master d
 
 ## Languages
 
-Malay (Native) German(C1)
+Malay(Native) German(Business Professional)
 
 ## Connect with me
 
